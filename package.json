@@ -1,0 +1,9 @@
+{
+  "name": "nagad-mfs-prototype",
+  "version": "1.0.0",
+  "description": "Nagad Digital Financial Services Mobile Interactive Prototype",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
